@@ -2,3 +2,6 @@ Mispaizin rencana
 -css dasar
 -css layouting
 -css responsive
+-css flex box
+-css grid
+-css unit
