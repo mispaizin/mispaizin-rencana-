@@ -2,3 +2,4 @@ Mispaizin rencana
 -css dasar
 -css layouting
 -css responsive
+-css flex box
